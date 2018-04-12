@@ -28,17 +28,4 @@ Calculator myCalc = new Calculator();
 
     }
 
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
+ 
